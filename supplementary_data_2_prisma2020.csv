@@ -1,0 +1,16 @@
+﻿PRISMA_2020_stage,Item,Count,Status
+Identification,Records identified from databases,Not reported in the available records,Unavailable
+Identification,Records identified from registers,Not reported in the available records,Unavailable
+Identification,Records identified from other methods,Not reported in the available records,Unavailable
+Identification,Duplicate records removed,Not reported in the available records,Unavailable
+Identification,Records removed by automation tools or for other reasons,Not reported in the available records,Unavailable
+Screening,Records screened (title and abstract),Not reported in the available records,Unavailable
+Screening,Records excluded,Not reported in the available records,Unavailable
+Retrieval,Reports sought for retrieval,Not reported in the available records,Unavailable
+Retrieval,Reports not retrieved,Not reported in the available records,Unavailable
+Eligibility,Reports assessed for eligibility (full text),Not reported in the available records,Unavailable
+Eligibility,"Reports excluded, with reasons",Not reported in the available records,Unavailable
+Included,Studies included (records retained after screening),73,Confirmed
+Included,of which S1-S23 (original matrix),23,Confirmed
+Included,of which S24-S73 (added records),50,Confirmed
+Included,Records with full text read per verification note (S24-S73 only; not a PRISMA stage),4,Confirmed
